@@ -1,4 +1,4 @@
-# Step 1: Use official Node.js image to build the app
+# Step 1: Use official Node.js image to build the app 
 FROM node:16 AS build
 
 # Set the working directory
